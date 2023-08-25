@@ -1,9 +1,10 @@
 ### Hi there 👋
 - My name is Mustafizur Rahman(call me Mustafiz).
+- ![Visitor Count](https://profile-counter.glitch.me/mustaf19/count.svg)
 
 <!--
 **mustaf19/mustaf19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Visitor Count](https://profile-counter.glitch.me/mustaf19/count.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
