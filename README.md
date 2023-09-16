@@ -1,5 +1,5 @@
-### Hi there 👋
-- My name is Mustafizur Rahman(call me Mustafiz).
+### Hi there👋
+### I'm Mustafizur Rahman and welcome to my Github Profile.
 - ![Visitor Count](https://profile-counter.glitch.me/mustaf19/count.svg)
 
 <!--
